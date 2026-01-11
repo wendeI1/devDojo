@@ -1,3 +1,5 @@
+package academy.devdojo.maratonajava.introducao;
+
 import java.util.Random;
 
 public class aula05switch {
